@@ -1,3 +1,8 @@
+# before you start
+npm i 
+npm i redux react-redux
+npm i @types/react-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
